@@ -9,9 +9,12 @@ Run the Application: Launch the Streamlit application using streamlit run app.py
 
 **Usage**
 Input Features: Enter laptop specifications in the provided fields.
+
 Get Prediction: Click the predict button to get the estimated price.
 
 **Technologies Used**
 Python: Core programming language.
+
 Streamlit: For creating the user interface.
+
 Scikit-Learn: Machine learning library for model building.
