@@ -1,3 +1,4 @@
+**Description:**
 This project aims to predict laptop prices using various machine learning algorithms. The user interface is built with Streamlit to provide an interactive and user-friendly experience.
 
 **Features**
