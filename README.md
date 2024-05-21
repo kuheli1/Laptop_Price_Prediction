@@ -3,9 +3,9 @@ This project aims to predict laptop prices using various machine learning algori
 
 **Features**
 Machine Learning Models: Implements various algorithms to predict laptop prices based on features like brand, specifications, and market trends.
-Streamlit UI: A sleek and interactive web application for users to input laptop features and get price predictions.
 
-Run the Application: Launch the Streamlit application using streamlit run app.py
+Streamlit UI: A sleek and interactive web application for users to input laptop features and get price predictions.
+Launch the Streamlit application using streamlit run app.py
 
 **Usage**
 Input Features: Enter laptop specifications in the provided fields.
